@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box-container{
+    padding: 30px;
+    text-align: center;
+    width: 700px;
+    margin: auto;
+    margin-top: 80px;
+    box-shadow: 5px 5px 5rem black;
+    background-color: hsl(217, 54%, 11%);
+}   
+
+.box-container>p{
+    line-height: 30px;
+    color: #c0c0c0;
+    margin-bottom: 50px;
+}
+
+.img-rounded{
+    border-radius: 50%;
+    width: 80px;
+    margin-bottom: 20px;
+}
+
+.informacion{
+    color: #fff;
+}
+
